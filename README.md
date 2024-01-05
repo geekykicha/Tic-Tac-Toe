@@ -9,34 +9,40 @@ THe output of this game displayed as:
   |  |  |
   |  |  |
   |  |  |
+  
 player X enter: (with postions of rows & cols):---
 0 0
 
 X |  |  |
   |  |  |
   |  |  |
+  
 player O enter: (with postions of rows & cols):---
 2 0
 
 X |  |  |
   |  |  |
 O |  |  |
+
 player X enter: (with postions of rows & cols):---
 1 1
 
 X |  |  |
   |X |  |
 O |  |  |
+
 player O enter: (with postions of rows & cols):---
 2 1
 
 X |  |  |
   |X |  |
 O |O |  |
+
 player X enter: (with postions of rows & cols):---
 2 2
 
 player X has won: 
+
 X |  |  |
   |X |  |
 O |O |X |
